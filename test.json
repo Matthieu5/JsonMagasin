@@ -1,0 +1,61 @@
+{
+    "magasin": [
+        {
+            "libelle": "Carrefour",
+            "rayon": [
+                {
+                    "libelle": "Fruits & Légumes",
+                    "produit": [
+                        {
+                            "libelle": "Orange",
+                            "prix": "6"
+                        },
+                        {
+                            "libelle": "Fraise",
+                            "prix": "10"
+                        },
+                        {
+                            "libelle": "Banane",
+                            "prix": "8"
+                        }
+                    ]
+                },
+                {
+                    "libelle": "Boucherie",
+                    "produit": [
+                        {
+                            "libelle": "Lard",
+                            "prix": "15"
+                        },
+                        {
+                            "libelle": "saucisse",
+                            "prix": "18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "libelle": "Norma",
+            "rayon": [
+                {
+                    "libelle": "Fruits & Légumes",
+                    "produit": [
+                        {
+                            "libelle": "Myrtille",
+                            "prix": "20"
+                        },
+                        {
+                            "libelle": "Poire",
+                            "prix": "40"
+                        },
+                        {
+                            "libelle": "Noix de Coco",
+                            "prix": "2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
